@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nuriye</h1>
 - An Electrical and Electronics Engineer who researches, applies, continues to learn, is open to development on Computer Vision - Artificial Intelligence - Deep Learning.
 
-- 🌱 I’m currently learning **EfficientNet**
+- 🌱 I’m currently learning **Linux**
 
 - 📝 I regularly write articles on [https://nuriyeeakin.medium.com/](https://nuriyeeakin.medium.com/)
 
