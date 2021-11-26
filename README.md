@@ -7,17 +7,6 @@
 
 - 📫 How to reach me **nuriyeakineem@gmail.com**
 
-### Blogs posts
-
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: nuriyeakin/deneme/blob/main/.github/workflows/blog-post-workflow@master
-        with:
-          feed_list: https://medium.com/feed/@nuriyeeakin'
 
 
 <h3 align="left">Connect with me:</h3>
