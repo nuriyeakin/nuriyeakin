@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: nuriyeakin/deneme/blob/main/.github/workflows/blog-post-workflow@master
         with:
-          feed_list: 'https://dev.to/feed/rahuldkjain, https://medium.com/feed/@nuriyeeakin'
+          feed_list: https://medium.com/feed/@nuriyeeakin'
 
 
 <h3 align="left">Connect with me:</h3>
