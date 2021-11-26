@@ -8,11 +8,7 @@
 - 📫 How to reach me **nuriyeakineem@gmail.com**
 
 ### Blogs posts
-name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
