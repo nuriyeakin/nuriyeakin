@@ -8,7 +8,6 @@
 - 📫 How to reach me **nuriyeakineem@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
 name: Latest blog post workflow
 on:
   schedule:
@@ -23,7 +22,7 @@ jobs:
       - uses: nuriyeeakin/blog-post-workflow@master
         with:
           feed_list: 'https://dev.to/feed/rahuldkjain, https://medium.com/feed/@nuriyeeakin'
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
