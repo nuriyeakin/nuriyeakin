@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: nuriyeeakin/blog-post-workflow@master
+      - uses: nuriyeakin/deneme/blob/main/.github/workflows/blog-post-workflow@master
         with:
           feed_list: 'https://dev.to/feed/rahuldkjain, https://medium.com/feed/@nuriyeeakin'
 
