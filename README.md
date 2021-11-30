@@ -13,13 +13,13 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [Sıfırdan Adım Adım PyTorch ile EfficientNet](https://nuriyeeakin.medium.com/s%C4%B1f%C4%B1rdan-ad%C4%B1m-ad%C4%B1m-pytorch-ile-efficientnet-953491423726?source=rss-43d576bc8af5------2)
-- 
+
 - [Mean Average Precision &lpar;mAP&rpar; Açıklaması ve PyTorch ile İmplementasyonu — YOLO Seri 4](https://nuriyeeakin.medium.com/mean-average-precision-map-a%C3%A7%C4%B1klamas%C4%B1-ve-pytorch-ile-i%CC%87mplementasyonu-yolo-seri-4-bb650c29747?source=rss-43d576bc8af5------2)
-- 
+
 - [Non-max suppression Açıklaması ve PyTorch ile İmplementasyonu — YOLO Seri 3](https://nuriyeeakin.medium.com/non-max-suppression-a%C3%A7%C4%B1klamas%C4%B1-ve-pytorch-ile-i%CC%87mplementasyonu-yolo-seri-3-306465f92234?source=rss-43d576bc8af5------2)
-- 
+
 - [Intersection over Union açıklaması ve implementasyonu — 2](https://nuriyeeakin.medium.com/intersection-over-union-a%C3%A7%C4%B1klamas%C4%B1-ve-implementasyonu-2-f3ade145e70a?source=rss-43d576bc8af5------2)
-- 
+
 - [Derin Öğrenmede Nesne Algılamaya Giriş -“Y0”](https://nuriyeeakin.medium.com/derin-%C3%B6%C4%9Frenmede-nesne-alg%C4%B1lamaya-giri%C5%9F-y0-c82d0447319c?source=rss-43d576bc8af5------2)
 <!-- BLOG-POST-LIST:END -->
 
