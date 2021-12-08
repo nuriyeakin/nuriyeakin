@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuriye</h1>
-<h3 align="center">A multidisciplinary Electrical and Electronics Engineer who researches, applies, continues to learn, is open to development on Computer Vision - Deep Learning - Data Science - Data Engineering.</h3>
+<h3 align="center">A multidisciplinary Electrical - Electronics Engineer who researches, applies, continues to learn, is open to development on Computer Vision - Deep Learning - Data Science - Data Engineering.</h3>
 
 - 🌱 I’m currently learning **SCALA**
 
