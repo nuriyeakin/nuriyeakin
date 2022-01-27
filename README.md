@@ -11,6 +11,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Interactive Report Using Google Data Studio and BigQuery Sandbox (Public Dataset Covid19-aha)](https://nuriyeeakin.medium.com/making-interactive-report-using-google-data-studio-and-bigquery-sandbox-public-dataset-9cadc2a099b0------2)
 - [Sıfırdan Adım Adım PyTorch ile EfficientNet](https://nuriyeeakin.medium.com/s%C4%B1f%C4%B1rdan-ad%C4%B1m-ad%C4%B1m-pytorch-ile-efficientnet-953491423726?source=rss-43d576bc8af5------2)
 - [Mean Average Precision &lpar;mAP&rpar; Açıklaması ve PyTorch ile İmplementasyonu — YOLO Seri 4](https://nuriyeeakin.medium.com/mean-average-precision-map-a%C3%A7%C4%B1klamas%C4%B1-ve-pytorch-ile-i%CC%87mplementasyonu-yolo-seri-4-bb650c29747?source=rss-43d576bc8af5------2)
 - [Non-max suppression Açıklaması ve PyTorch ile İmplementasyonu — YOLO Seri 3](https://nuriyeeakin.medium.com/non-max-suppression-a%C3%A7%C4%B1klamas%C4%B1-ve-pytorch-ile-i%CC%87mplementasyonu-yolo-seri-3-306465f92234?source=rss-43d576bc8af5------2)
